@@ -1,5 +1,5 @@
 # Project Name
-TARGET = ADCTest
+TARGET = TJRead
 
 # Configure for debugging
 # common configurations:
